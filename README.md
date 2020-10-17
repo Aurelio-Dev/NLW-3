@@ -15,4 +15,5 @@ Happy é uma aplicação que busca conectar as pessoas a Orfanatos próximos de 
 
 ➜ [Web](https://github.com/Aurelio-Dev/NLW-3/tree/main/web)
 
-## Tecnologias
+## 🧾 Licensa 
+Este projeto encontra-se sob a licença MIT. Para mais informações, acesse o arquivo [LICENSE](https://github.com/Aurelio-Dev/NLW-3/blob/main/LICENSE)
