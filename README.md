@@ -18,6 +18,7 @@ Happy é uma aplicação que busca conectar as pessoas a Orfanatos próximos de 
 ## 👍 Como contribuir
 
 Faça um fork;
+
 Crie uma branch com as suas features: ``git checkout -b my-feature``;
 
 Faça um commit das suas alterações: ``git commit -m 'feat: My new feature``;
