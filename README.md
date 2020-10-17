@@ -7,7 +7,7 @@ Full Application was developed on Next Level Week #3 event by @Rocketseat
 ## 💻 Sobre o projeto
 Happy é uma aplicação que busca conectar as pessoas a Orfanatos próximos de sua localidade.
 
-## Índice
+## 📌 Índice
 
 ➜ [Backend](https://github.com/Aurelio-Dev/NLW-3/tree/main/backend)
 
